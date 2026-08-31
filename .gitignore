@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+captured/*
+!captured/.gitkeep
+
+.idea/
+.vscode/
+
+*.tmp
+*.log
